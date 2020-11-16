@@ -1,4 +1,7 @@
 class resume():
+    '''
+    On this class contain Yogesh Nile's Resume
+    '''
     def get_Objective(self):
         '''
         This function contain Yogesh Nile's Objective.
@@ -35,7 +38,7 @@ class resume():
         Introduction = obj.get_Introduction()\n
         print(Introduction)
         '''
-        return "My name is Yogesh Nile. I'm a 3rd-year BCA(Bachelor of Computer Application) student from Vimal Tormal Poddar BCA Collage (Affliated to Veer Narmad South Gujarat University), Surat. I hail from a small village of Maharashtra, India. I started my coding journey in 2017 when I want to did something in computer field. In which devoting 3 years to BCA, in 2018 I shifted my interest into the field of software engineering. Since then, I breathe in code."
+        return "\nMy name is Yogesh Nile. I'm a 3rd-year BCA(Bachelor of Computer Application) student from Vimal Tormal Poddar BCA Collage (Affliated to Veer Narmad South Gujarat University), Surat. I hail from a small village of Maharashtra, India. I started my coding journey in 2017 when I want to did something in computer field. In which devoting 3 years to BCA, in 2018 I shifted my interest into the field of software engineering. Since then, I breathe in code.\n"
 
     def get_Skills(self):
         '''
